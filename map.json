@@ -205,7 +205,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"sign1"
+                 "value":"https:\/\/www.zum.de\/dwu\/depothp\/hp-math\/hpmpo52.htm"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -223,7 +223,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"sign2"
+                 "value":"https:\/\/www.zum.de\/dwu\/depothp\/hp-math\/hpmpo53.htm"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -241,7 +241,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"sign3"
+                 "value":"https:\/\/www.zum.de/dwu/depothp/hp-math\/hpmpo56.htm"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -259,7 +259,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"sign4"
+                 "value":"https:\/\/www.zum.de\/dwu\/depothp\/hp-math\/hpmzb63.htm"
                 }],
          "type":"tilelayer",
          "visible":true,
