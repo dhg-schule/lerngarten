@@ -37,7 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"welcomedesk"
+                 "value":"https:\/\/www.deutschhaus.de"
                 }],
          "type":"tilelayer",
          "visible":true,
